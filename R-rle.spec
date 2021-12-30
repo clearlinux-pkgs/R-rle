@@ -4,7 +4,7 @@
 #
 Name     : R-rle
 Version  : 0.9.2
-Release  : 9
+Release  : 10
 URL      : https://cran.r-project.org/src/contrib/rle_0.9.2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/rle_0.9.2.tar.gz
 Summary  : Common Functions for Run-Length Encoded Vectors
